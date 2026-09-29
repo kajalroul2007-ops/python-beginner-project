@@ -1,2 +1,2 @@
 # python-beginner-project
-my nsmr is kajal
+my nsme is kajal
